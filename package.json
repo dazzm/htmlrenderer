@@ -1,12 +1,12 @@
 {
-  "name": "surrealscenerycaption",
+  "name": "htmlrenderer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "micro",
     "dev": "micro-dev",
-    "deploy": "now && now alias && now remove surrealscenerycaption --safe --yes"
+    "deploy": "now && now alias && now remove htmlrenderer --safe --yes"
   },
   "author": "",
   "license": "ISC",
